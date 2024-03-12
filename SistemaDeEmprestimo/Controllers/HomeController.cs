@@ -15,11 +15,15 @@ namespace SistemaDeEmprestimo.Controllers
 
         public IActionResult Index()
         {
+            //pagina especifica 
+            //abre a pagina 
             return View();
         }
 
         public IActionResult Privacy()
         {
+            //pagina especifica
+            //abre a pagina 
             return View();
         }
 
