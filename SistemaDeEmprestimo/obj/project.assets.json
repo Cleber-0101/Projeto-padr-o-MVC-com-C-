@@ -8340,11 +8340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj",
+      "projectUniqueName": "C:\\Sistema de Emprestimo com c#\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj",
       "projectName": "SistemaDeEmprestimo",
-      "projectPath": "C:\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj",
+      "projectPath": "C:\\Sistema de Emprestimo com c#\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj",
       "packagesPath": "C:\\Users\\clebe\\.nuget\\packages\\",
-      "outputPath": "C:\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\obj\\",
+      "outputPath": "C:\\Sistema de Emprestimo com c#\\SistemaDeEmprestimo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\clebe\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9vv6LLbMK812+07kCAmEnC9xGWZPKwELhqMnzZWiFoo9tFgZfcwtxQmGT+F7IenmPukuXIoClQ4ZXMfAWjIAJw==",
+  "dgSpecHash": "6JPj0cw1uz2iwIiCzowXtmCSpw8I2RKVztu+Dww2AH3JQ+/2dXOXuc62TxNv6muHvhybqNsoGptmyb85BUfQ1Q==",
   "success": true,
-  "projectFilePath": "C:\\SistemaDeEmprestimo\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj",
+  "projectFilePath": "C:\\Sistema de Emprestimo com c#\\SistemaDeEmprestimo\\SistemaDeEmprestimo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clebe\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\clebe\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
